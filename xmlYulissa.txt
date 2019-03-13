@@ -1,0 +1,11 @@
+
+JSON:
+[Moto{ color= amarillo ,placa= 123, marca=honda, valorPeaje=12.0, Automovil{ color=verde, placa=123cd, marca=mercedes, valorPeaje=5.0, Camion{ color=rojo, placa=123der, marca=volvo, valorPeaje=18.0]
+
+
+XML:
+<Vehiculo>
+          <Moto>
+                <color>amarillo</color><marca>honda</marca><valorPeaje>12.0</valorPeaje>
+          </Moto>
+</Vehiculo>
